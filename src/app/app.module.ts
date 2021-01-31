@@ -23,6 +23,6 @@ import { Page3Component } from './page3/page3.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [HeaderComponent,AppComponent,FooterComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
