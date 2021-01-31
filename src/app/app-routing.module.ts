@@ -7,6 +7,10 @@ import { Page3Component } from './page3/page3.component';
 
 const routes: Routes = [
   {
+    path:'',
+    component:Page1Component
+},
+  {
     path:'page1',
     component:Page1Component
 },
